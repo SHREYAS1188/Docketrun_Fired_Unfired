@@ -50,6 +50,7 @@ Installation is using the .sh file
 
 
 ---------------------------------
+![Screenshot from 2025-04-17 13-42-19](https://github.com/user-attachments/assets/9d7cbf95-de45-4eb5-8e93-68e5cd592ad3)
 
 so the interface has 2 modes 
 mode 1 = start application 
