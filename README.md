@@ -58,6 +58,10 @@ mode 2 =  configure application
 
 
 start application 
+![Screenshot from 2025-04-17 13-43-52](https://github.com/user-attachments/assets/f1910f96-5c64-4266-b2b6-bb95eac2c467)
+![Screenshot from 2025-04-17 13-44-37](https://github.com/user-attachments/assets/543aa8b5-c78e-4c2d-88bb-90d827aedd5d)
+![Screenshot from 2025-04-17 13-44-49](https://github.com/user-attachments/assets/3d028113-1e6b-4d70-927d-0e02364dfcf6)
+
 
 so the application need to be run in this mode 
 so when we get the main window we get the start application button on the left 
@@ -76,6 +80,7 @@ percentages of blue and grey percentages
 
 so as the bed moves  in the live frame it is detected and then in the previous feed the image of the caught bed comes and the respective fired and unfired percenteges
 
+![Screenshot from 2025-04-17 13-45-36](https://github.com/user-attachments/assets/d488dbbb-03bc-4387-8a92-32b6182e6f24)
 
 
 
@@ -91,6 +96,9 @@ bed by the model
 so once the model detctes the bed in the optimum position then that frame is then taken into the HSV output frame here we can set the hsv values for the 
 fired and unfired region   
 also we can set the model percentage 
+![Screenshot from 2025-04-17 13-47-02](https://github.com/user-attachments/assets/3009fbcb-929a-46b5-8bcf-041789259cf5)
+![Screenshot from 2025-04-17 13-48-27](https://github.com/user-attachments/assets/ca8283ff-efca-446a-8724-13633c773480)
+![Screenshot from 2025-04-17 13-52-12](https://github.com/user-attachments/assets/9369b66b-dafc-4f5b-b6a2-57d375c44fbc)
 
 their are ___ buttons
 
