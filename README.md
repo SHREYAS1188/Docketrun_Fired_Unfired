@@ -3,31 +3,31 @@
 
 Docketrun fired and unfired project 
 
-the project aims at detcting the percentage of the fired and unfired portion on the moving bed 
+This project aims at detcting the percentage of the fired and unfired region in the moving bed 
 
-so when the bed moves the camera is kept in place for the continous feed, the frame is taken into consideration where the bed is present then 
-later fed into an ai model which detects the bed position 
+Setup: When the bed moves the camera is used for the continous feed, the frame is taken into consideration where the bed is present in the frame then 
+later fed into an ai model for detection of the bed.
 
-the then detected image with the bed is then taken and is cropped where the bed area is detected. then we use different methods like 
-0] Accentaute snapseed 
-1] background removal 
-2] convert to hsv channel and later apply the custom filter
-3] morphological operations(dilation +erosion)
-4] then apply the final mask 
+Detected bed image with the bed is then taken and is cropped to only contain the detcted portion excluding all the other things. This is then post processed using different methods like
+1] Accentaute snapseed Function 
+2] Background removal 
+3] Convert to hsv channel and later apply the custom filter
+4] Morphological operations(dilation +erosion)
+5] Application of the final mask 
 
 
-when the final mask is applied only the blue/grey area  is remaining, so now we need the calculate the pixels which are remaining for both 
-the blue and grey area later we need to calculate the ration for the blue: grey ratio
+When the final mask is applied only the blue/grey area  is remaining from the detectied image, so now we need to calculate the pixels which are remaining for both 
+the blue and grey area later we need to calculate the ratio for the blue:e grey ratio
 
 
 ----------------------------------------------------------------------------------------------------
 
 reqirements.txt file
 
-to run the project we need to run only one .sh file main.sh 
-using the command in the command prompt
-
+To run the project we need to run only one .sh file main.sh. Useing this command in the command prompt
+"""
 ./main.sh
+"""
 
 the model .pt is used for the bed detection 
 
