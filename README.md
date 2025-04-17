@@ -35,30 +35,38 @@ the model .pt is used for the bed detection
 -------------------------------
 
 built with 
-python, shell, yolov7, docketrun 
+python, shell, yolov7
 -----------------------------
 
 getting started 
 
-prerequesties
+prerequesties:
+1] python should be installed in the system
 
-python 
-
-
-Installation is using the .sh file 
-
-
+Installation of the package is using the .sh file
 
 ---------------------------------
+
+Below screenshot shows the interface of the main window which appears when the program is run
+
 ![Screenshot from 2025-04-17 13-42-19](https://github.com/user-attachments/assets/9d7cbf95-de45-4eb5-8e93-68e5cd592ad3)
 
-so the interface has 2 modes 
-mode 1 = start application 
-mode 2 =  configure application 
+The interface has 2 modes 
 
+mode 1 = start app
 
-start application 
-![Screenshot from 2025-04-17 13-43-52](https://github.com/user-attachments/assets/f1910f96-5c64-4266-b2b6-bb95eac2c467)
+mode 2 = configure app
+
+Start App: In this the application runs and starts detecting the fired and unfired percentages of the bed.
+
+Configure App: The configure app is used when we need to set the confidence of the model or set the HSV values for detecting the fired and unfired region
+
+start app
+
+when we click on start app button an input box for the camera rtsp opens up as seen in the below picture 
+
+we need to input the camera rtsp here if the camera is offline or the rtsp is wrong we will get the message as shown in below screenshot  
+![Screenshot from 2025-04-17 18-27-37](https://github.com/user-attachments/assets/18359be0-a99e-4d0d-ac53-ed577a898f4e)
 ![Screenshot from 2025-04-17 13-44-37](https://github.com/user-attachments/assets/543aa8b5-c78e-4c2d-88bb-90d827aedd5d)
 ![Screenshot from 2025-04-17 13-44-49](https://github.com/user-attachments/assets/3d028113-1e6b-4d70-927d-0e02364dfcf6)
 
