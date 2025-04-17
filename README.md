@@ -25,9 +25,9 @@ the blue and grey area later we need to calculate the ratio for the blue:e grey 
 reqirements.txt file
 
 To run the project we need to run only one .sh file main.sh. Useing this command in the command prompt
-'''
+```
 ./docketrunmain.sh
-'''
+```
 
 the model .pt is used for the bed detection 
 
