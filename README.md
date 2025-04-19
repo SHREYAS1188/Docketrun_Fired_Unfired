@@ -88,7 +88,7 @@ fired and unfired region, also we can set the model percentage here.
 setting the blue hsv
 ![Screenshot from 2025-04-17 13-48-27](https://github.com/user-attachments/assets/ca8283ff-efca-446a-8724-13633c773480)
 setting the grey hsv
-![Screenshot from 2025-04-17 13-52-12](https://github.com/user-attachments/assets/9369b66b-dafc-4f5b-b6a2-57d375c44fbc)
+![Screenshot from 2025-04-19 13-28-40](https://github.com/user-attachments/assets/3620e0f7-ff19-41e9-9bad-2cb48fd13bbe)
 
 Their are 6 buttons in total in this window
 
