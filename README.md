@@ -4,7 +4,7 @@
 Docketrun fired and unfired project 
 Built with 🛠️ 
 
-![](https://cdn-icons-png.flaticon.com/128/15452/15452650.png)
+![](https://cdn-icons-png.flaticon.com/128/10090/10090320.png)
 ![](https://img.icons8.com/?size=160&id=YX03OUiHE3rz&format=png)
 ![](https://cdn-icons-png.flaticon.com/128/16810/16810458.png)
 ![](https://opencv.org/wp-content/uploads/2022/05/logo.png)
