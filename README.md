@@ -99,5 +99,8 @@ Save confidence = saves the confidence percentage of the model for the config fi
 Next = this button switches the hsv values button from blue to grey 
 Start app = once all the values are set this button is pressed to start the application where the detection and percentage calculation occurs 
 
+![Screenshot from 2025-04-19 13-26-12](https://github.com/user-attachments/assets/4e031814-5b20-40d4-ab5c-308a6c65ed79)
+
+
 ------------
 happy coding ⌨️
