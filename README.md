@@ -6,7 +6,7 @@ Built with 🛠️
 
 ![](https://cdn-icons-png.flaticon.com/128/10090/10090320.png)
 ![](https://img.icons8.com/?size=160&id=YX03OUiHE3rz&format=png)
-![](https://d33wubrfki0l68.cloudfront.net/7c8561d6a2795e512d1f3165ed7edd9405419968/ad392/img/symbol/svg/full_colored_light.svg)
+![](https://img.icons8.com/?size=96&id=9MJf0ngDwS8z&format=png)
 ![](https://opencv.org/wp-content/uploads/2022/05/logo.png)
 ![](https://avatars.githubusercontent.com/u/26833451?s=48&v=4)
 
