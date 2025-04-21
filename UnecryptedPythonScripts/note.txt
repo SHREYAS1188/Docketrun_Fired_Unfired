@@ -4,6 +4,8 @@ this folder contains the python files in their unencryted format.
 If any changes are made in this files 
 follow these steps
 1. use this command in the terminal 
-> 
+> pip install pyarmor
+> pyarmor gen foo.py
+replace foo.py with the python file which needs to be encrypted
 2. A new folder "dist" is created replace this newly created folder with the orignal one
 
